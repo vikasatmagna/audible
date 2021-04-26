@@ -1,0 +1,5 @@
+.taskManager{
+    border:1px solid #ccc;
+    padding:40px;
+}
+.taskManager p{ font-size: 40px;}
